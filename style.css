@@ -1,0 +1,24 @@
+﻿body
+{
+    margin:0;
+ padding:0;
+ 
+}
+
+.header{
+    height:200px;
+    width:60%;
+    margin:auto;
+    background-color:#ff0000;
+    background-image: url(image.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:150px
+}
+.header p{
+    width:20%;
+    margin:auto;
+    magin-top:180px;
+    color:#ffffff;
+    font-size:26px;
+}
